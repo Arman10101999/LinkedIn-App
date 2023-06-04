@@ -1,3 +1,14 @@
+#About this project 
+npx create-react-app Linkedin-clone --template redux
+
+This project is the clone of LinkedIn application using React , Redux and Material UI for frontend view.I have used Firebase for authentication and real time backend services.
+
+What is Redux? Firstly it is a state management library for Javascript applications. It is a predictable state container designed to help write JS apps that beave consistently across client , server and native environments and are easy to test. It operates on a single global state object that represents the entire state of an application.
+
+What is Firebase ? it have set fo tools provided by Google and its basically allows real time backend and host the app and also helps in authentication.
+
+this project took almost 1 week to complete.
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
